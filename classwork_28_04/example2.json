@@ -1,0 +1,40 @@
+{
+  "Id": 0,
+  "Name": "Petya",
+  "Surname": "Ivanov",
+  "Subjects": [
+    {
+      "Duration": 4,
+      "Name": "Math",
+      "Marks": [
+        1,
+        1,
+        2,
+        3,
+        5,
+        5,
+        3,
+        4,
+        5
+      ],
+      "FinalMark": 3
+    },
+    {
+      "Name": "CS",
+      "Marks": [
+        5,
+        3,
+        4,
+        5
+      ],
+      "FinalMark": 4
+    },
+    {
+      "Duration": 2,
+      "Name": "History",
+      "Marks": [],
+      "FinalMark": 0
+    }
+  ],
+  "Type": "Student"
+}

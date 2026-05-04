@@ -51,8 +51,8 @@ public class WhiteTxtFileManager : IWhiteSerializer
         {
             switch (pair[1])
             {
-                case "Task1" : desObj = new Lab9.Purple.Task1("maksimka"); break;
-                case "Task2" : desObj = new Lab9.Purple.Task1("maksimka"); break;
+                case "Task1" : desObj = new Lab9.Purple.Task1("lalala"); break;
+                case "Task2" : desObj = new Lab9.Purple.Task1("lalala"); break;
                 case "Task3" : break;
                 
             }
